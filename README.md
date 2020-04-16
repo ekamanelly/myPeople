@@ -1,6 +1,6 @@
 # myPeope
 # web app with MongoDB NodeExpresss and Ejs templating System.
-# you know my fundness for MaterializeCss alread...
+# you know my excitment for MaterializeCss already... 
 
 # =============.
 
