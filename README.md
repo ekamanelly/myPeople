@@ -9,5 +9,5 @@ Some startup code
  
 # node index
 
-still you Nodemon or liveServer in VScode
+still you can use Nodemon or liveServer in VScode
 
