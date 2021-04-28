@@ -175,7 +175,7 @@ app.get('/football', function(req, res){
       unirest("GET", `https://api-football-v1.p.rapidapi.com/v2/fixtures/date/${time()}`)
       .headers({
       	"x-rapidapi-host": "api-football-v1.p.rapidapi.com",
-      	"x-rapidapi-key": "7e5217d5e1mshc7875972ae2d9b6p15263ajsn52c864a5bce7"
+      	"x-rapidapi-key": "get one from rapi api"
       }).end(function (result) {
       	if (result.error){
           console.log (result.error);
